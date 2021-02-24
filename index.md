@@ -1,7 +1,6 @@
 Loan Status Prediction of Bank Clients
 ================
-Sean Cooke R00181896
-6th December 2018
+
 
 ## Summary
 
