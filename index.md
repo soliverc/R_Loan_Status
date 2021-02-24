@@ -180,16 +180,6 @@ first 5 customers from the
     ##  Max.   :120.0   Max.   :10.000   Max.   :99.00                 
     ## 
 
-<!--html_preserve-->
-
-<div id="htmlwidget-53b839fe2888116eea87" class="datatables html-widget" style="width:100%;height:auto;">
-
-</div>
-
-<script type="application/json" data-for="htmlwidget-53b839fe2888116eea87">{"x":{"filter":"none","extensions":["FixedColumns"],"data":[["1","2","3","4","5","6"],["Zero","No Acct","No Acct","No Acct","No Acct","Zero"],["Current","All Paid","All Paid","All Paid","All Paid","Current"],["Furniture","Small Appliance","Small Appliance","Small Appliance","Small Appliance","Furniture"],["Low","Low","Low","Low","Low","Low"],["Long","Medium","Medium","Medium","Medium","Long"],["Single","Single","Single","Single","Single","Divorced"],["Other","Own","Own","Own","Own","Own"],["Management","Unskilled","Unskilled","Unskilled","Unskilled","Skilled"],["Yes","Yes","No","Yes","Yes","Yes"],[13,5,5,5,5,7],[3,1,1,1,1,1],[52,41,41,41,41,48],["Good","Good","Good","Good","Good","Good"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>checkingacct<\/th>\n      <th>credithistory<\/th>\n      <th>loanreason<\/th>\n      <th>savingsacct<\/th>\n      <th>employment<\/th>\n      <th>personalstatus<\/th>\n      <th>housing<\/th>\n      <th>jobtype<\/th>\n      <th>foreign<\/th>\n      <th>monthsopened<\/th>\n      <th>residencetime<\/th>\n      <th>age<\/th>\n      <th>creditstanding<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"t","scrollX":true,"fixedColumns":true,"columnDefs":[{"className":"dt-right","targets":[10,11,12]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-
-<!--/html_preserve-->
-
 -----
 
 The below proportions of Bad to Good loans gives the baseline rate,
@@ -419,11 +409,11 @@ datatable(Three_Clients, extensions = 'FixedColumns',options = list(dom = 't',sc
 
 <!--html_preserve-->
 
-<div id="htmlwidget-7aa8231f2659b5a78dca" class="datatables html-widget" style="width:100%;height:auto;">
+<div id="htmlwidget-1bd4b462153591ae3baf" class="datatables html-widget" style="width:100%;height:auto;">
 
 </div>
 
-<script type="application/json" data-for="htmlwidget-7aa8231f2659b5a78dca">{"x":{"filter":"none","extensions":["FixedColumns"],"data":[["11","2","3"],[791,782,783],["No Acct","Low","No Acct"],["Critical","Current","Current"],["Car Used","Small Appliance","Small Appliance"],["Low","Low","Low"],["Medium","Medium","Very Short"],["Single","Single","Divorced"],["Own","Rent","Own"],["Management","Skilled","Skilled"],["Yes","No","No"],[25,37,13],[3,4,2],[37,23,28],["Good","Bad","Bad"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>id<\/th>\n      <th>checkingacct<\/th>\n      <th>credithistory<\/th>\n      <th>loanreason<\/th>\n      <th>savingsacct<\/th>\n      <th>employment<\/th>\n      <th>personalstatus<\/th>\n      <th>housing<\/th>\n      <th>jobtype<\/th>\n      <th>foreign<\/th>\n      <th>monthsopened<\/th>\n      <th>residencetime<\/th>\n      <th>age<\/th>\n      <th>creditstanding<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"t","scrollX":true,"fixedColumns":true,"columnDefs":[{"className":"dt-right","targets":[1,11,12,13]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1bd4b462153591ae3baf">{"x":{"filter":"none","extensions":["FixedColumns"],"data":[["11","2","3"],[791,782,783],["No Acct","Low","No Acct"],["Critical","Current","Current"],["Car Used","Small Appliance","Small Appliance"],["Low","Low","Low"],["Medium","Medium","Very Short"],["Single","Single","Divorced"],["Own","Rent","Own"],["Management","Skilled","Skilled"],["Yes","No","No"],[25,37,13],[3,4,2],[37,23,28],["Good","Bad","Bad"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>id<\/th>\n      <th>checkingacct<\/th>\n      <th>credithistory<\/th>\n      <th>loanreason<\/th>\n      <th>savingsacct<\/th>\n      <th>employment<\/th>\n      <th>personalstatus<\/th>\n      <th>housing<\/th>\n      <th>jobtype<\/th>\n      <th>foreign<\/th>\n      <th>monthsopened<\/th>\n      <th>residencetime<\/th>\n      <th>age<\/th>\n      <th>creditstanding<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"t","scrollX":true,"fixedColumns":true,"columnDefs":[{"className":"dt-right","targets":[1,11,12,13]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 
 <!--/html_preserve-->
 
@@ -464,11 +454,11 @@ datatable(bestmtry)
 
 <!--html_preserve-->
 
-<div id="htmlwidget-ea77a34420a06adc7670" class="datatables html-widget" style="width:100%;height:auto;">
+<div id="htmlwidget-0656af6d1870f5c99e7d" class="datatables html-widget" style="width:100%;height:auto;">
 
 </div>
 
-<script type="application/json" data-for="htmlwidget-ea77a34420a06adc7670">{"x":{"filter":"none","data":[["1.OOB","2.OOB","3.OOB","6.OOB"],[1,2,3,6],[0.275641025641026,0.233974358974359,0.25,0.237179487179487]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>mtry<\/th>\n      <th>OOBError<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-0656af6d1870f5c99e7d">{"x":{"filter":"none","data":[["1.OOB","2.OOB","3.OOB","6.OOB"],[1,2,3,6],[0.275641025641026,0.233974358974359,0.25,0.237179487179487]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>mtry<\/th>\n      <th>OOBError<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 
 <!--/html_preserve-->
 
